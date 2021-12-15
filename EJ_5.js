@@ -7,7 +7,7 @@ document.onkeyup=function(){
 }*/
 
 //EX3
-document.onkeydown=function(letter){
+/*document.onkeydown=function(letter){
     document.getElementById('teclat').innerHTML=letter.key;
     var contador = document.getElementById('acumula');
     contador.innerHTML += letter.key + ' '
@@ -15,4 +15,5 @@ document.onkeydown=function(letter){
 
 document.onkeyup=function(){
     document.getElementById('teclat').innerHTML=' ';
-}
+}*/
+
